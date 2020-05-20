@@ -1,4 +1,4 @@
-# Jampy-and-m-n-relationships
+# Jampy and m:n relationships
 An idea only
 
 For the needs of the project, the "cheapest" possibility of creating 'little' m: n relations was considered.
